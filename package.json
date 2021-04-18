@@ -1,7 +1,7 @@
 {
   "name": "@yfwz100/vite-plugin-vue2",
-  "version": "1.4.3-1",
-  "description": "Vite plugin for Vue2",
+  "version": "1.4.3-2",
+  "description": "Vite plugin for Vue2, a fork with custom blocks.",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsc -w -p . --incremental --skipLibCheck",
