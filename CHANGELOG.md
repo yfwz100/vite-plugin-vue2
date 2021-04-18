@@ -1,3 +1,13 @@
+## [1.4.3-1](https://github.com/underfin/vite-plugin-vue2/compare/v1.4.3...v1.4.3-1) (2021-04-18)
+
+
+### Bug Fixes
+
+* parse custom block code correctly. ([a74c127](https://github.com/underfin/vite-plugin-vue2/commit/a74c127b59a4f8aeb23cafd06e643e960642884c))
+* support src-import for custom blocks. ([5fd7a6e](https://github.com/underfin/vite-plugin-vue2/commit/5fd7a6e96b47f84ea560c2c5334796e8c1071bc2))
+
+
+
 ## [1.4.3](https://github.com/underfin/vite-plugin-vue2/compare/v1.2.2...v1.4.3) (2021-04-03)
 
 
