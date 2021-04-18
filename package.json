@@ -21,12 +21,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/underfin/vite-plugin-vue2"
+    "url": "git+https://github.com/yfwz100/vite-plugin-vue2"
   },
   "bugs": {
-    "url": "https://github.com/underfin/vite-plugin-vue2/issues"
+    "url": "https://github.com/yfwz100/vite-plugin-vue2/issues"
   },
-  "homepage": "https://github.com/underfin/vite-plugin-vue2/tree/master/#readme",
+  "homepage": "https://github.com/yfwz100/vite-plugin-vue2/tree/master/#readme",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
