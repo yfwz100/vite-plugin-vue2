@@ -1,4 +1,4 @@
-## [1.4.3-1](https://github.com/underfin/vite-plugin-vue2/compare/v1.4.3...v1.4.3-1) (2021-04-18)
+## [1.4.3-2](https://github.com/underfin/vite-plugin-vue2/compare/v1.4.3...v1.4.3-2) (2021-04-18)
 
 
 ### Bug Fixes
